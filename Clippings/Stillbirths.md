@@ -1,0 +1,11 @@
+[The Debate Over Umbilical Cord Screenings and Stillbirths](https://undark.org/2021/07/05/debate-over-umbilical-cord-screenings-and-stillbirths/)
+  tags:: #clipping 
+  author:: Claire Marie Porter
+
+>   - Some experts insist that increasing prenatal tests will prevent many stillbirths. The medical community is uncertain.
+>   - Roughly half of the 26,000 stillbirths per year in the United States have an unknown cause, according to the Stillbirth Collaborative Research Network, an organization funded by the National Institute of Child Health and Human Development. Umbilical cord abnormalities — of which there are roughly seven categories, ranging from cord cysts to entanglements to knots — may account for anywhere from 10 percent to more than 25 percent of stillbirths, according to studies in the medical literature. But which types of cord abnormalities can be directly associated with stillbirth, and whether or not those abnormalities can be detected and the stillbirths prevented, is an ongoing matter of contention among medical experts. Without a stronger consensus, the standard of care — how a patient should be treated in accordance with professional guidelines — for people like Miller is unlikely to change. 
+>   - Miller pointed out that ==there is no word in the English language to describe a mother who has had a stillbirth or lost a child==, though there is a noun to describe others who have had a loss — someone who’s divorced, or widowed, or orphaned. She chooses to refer to herself as a “loss mom.
+>     She thinks this linguistic hole correlates to a lack of awareness. Which is why she’s found herself advocating for “loss moms” and in the summer of 2019 joined the nation’s leading stillbirth advocacy group, the Star Legacy Foundation, as secretary. She stresses the importance of Collins’ research and puts other loss moms in touch with him if they have a history of umbilical cord issues. “You can carry it silently and alone,” she said, “or you can get out there.” 
+   
+   ## Colophon
+   Status: [[Bean]]
