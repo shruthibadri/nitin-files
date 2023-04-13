@@ -1,0 +1,2 @@
+- Complex systems are collections of diverse, connected, interdependent entities whose behaviour is determined by rules, which may adapt, but need not. The interaction often produces phenomena that are more than the parts. Such phenomena are called "emergent." #definition from [[Diversity and Complexity by Scott E Page]]
+- See also [[Published Notes/Concepts/Complex Adaptive Systems]]
